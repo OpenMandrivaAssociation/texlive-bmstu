@@ -1,6 +1,6 @@
 Name:		texlive-bmstu
 Version:	62012
-Release:	1
+Release:	2
 Summary:	A LaTeX class for Bauman Moscow State Technical University
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bmstu
