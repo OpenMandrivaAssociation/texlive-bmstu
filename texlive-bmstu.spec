@@ -3,7 +3,7 @@ Version:	65897
 Release:	1
 Summary:	A LaTeX class for Bauman Moscow State Technical University
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bmstu
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bmstu
 License:	lppl1.3 other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bmstu.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bmstu.doc.r%{version}.tar.xz
